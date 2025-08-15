@@ -1,2 +1,2 @@
-# spotify-songs-genre-segmentation
-Mini Project
+ # spotify-songs-genre-segmentation
+Project
